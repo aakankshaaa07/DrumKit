@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  background-color: #753422;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #FFEBC9;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #D79771;
+}
+
+button {
+  cursor: pointer;
+}
+
+footer {
+  color: #FFEBC9;
+  font-family: "Arvo", cursive;
+  font-size: 20px;
+}
+
+.w {
+  background-image: url('/images/tom1.png');
+}
+
+.a {
+  background-image: url('/images/tom2.png');
+}
+
+.s {
+  background-image: url('/images/tom3.png');
+}
+
+.d {
+  background-image: url('/images/tom4.png');
+}
+
+.j {
+  background-image: url('/images/crash.png');
+}
+
+.k {
+  background-image: url('/images/snare.png');
+}
+
+.l {
+  background-image: url('/images/kick.png');
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #B05B3B;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #D79771;
+  text-shadow: 3px 0 #FFEBC9;
+  border-radius: 0px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.drumclick {
+  outline: none;
+  border: 10px solid #FFEBC9;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #FFEBC9;
+  text-shadow: 3px 0 #D79771;
+  border-radius: 0px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.drum:hover {
+  border: 10px solid #FFEBC9;
+  color: #FFEBC9;
+  text-shadow: 3px 0 #D79771;
+}
